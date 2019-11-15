@@ -1,4 +1,4 @@
-# hello-world
-My first program
+#hello world
+Chương trình đầu tiên của Bảo 
 
-I'm Bảo Bảo :) this's  just an experiment
+Tôi là Bảo Bảo. Nay mình thử nghiệm sài Github :) 
